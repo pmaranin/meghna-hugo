@@ -7,7 +7,7 @@ theme = "meghna-hugo"
 title = "opTop"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2022 opTop"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -60,17 +60,17 @@ url = "https://themefisher.com/"
 weight = 8
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2022 opTop"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[Languages.fr.menu.main]]
-name = "sur"
+name = "A propos"
 url = "#about"
 weight = 1
 [[Languages.fr.menu.main]]
-name = "un service"
+name = "Services"
 url = "#services"
 weight = 2
 [[Languages.fr.menu.main]]
